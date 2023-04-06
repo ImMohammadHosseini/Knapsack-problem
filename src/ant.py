@@ -2,6 +2,8 @@
 
 """
 
+from random import randint, random
+
 class Ant:
     def __init__(self, status = 0):
         

@@ -1,4 +1,6 @@
 
+from .colony import All_ants
+
 class Graph():
     
     def __init__ (self, nodes, W, alpha=1, beta=3, d=.2, min_ph=.5, profit=.1,

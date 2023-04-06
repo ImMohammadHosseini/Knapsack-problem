@@ -2,6 +2,9 @@
 """
 
 """
+from .ant import Ant
+from random import randint, random
+
 
 class All_ants:
     
