@@ -6,3 +6,4 @@ Ant Colony Optimaization is a metaheuristik algorithm that inspired from behavio
 can solve the problems that represented as a graph.
 This repository was a homework in AI course, and after few years attracted my attention when I started studying about cloud resource management and saw knapsack problem as resource allocation problem.
 
+the implementation idea is taken from: https://github.com/jurekpawlikowski/ant-colony
